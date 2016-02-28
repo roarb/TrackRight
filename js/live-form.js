@@ -4,6 +4,7 @@
 
 function updateForm(e){
     console.log(e);
-    console.log(e.src);
+    console.log(e.target);
+    console.log(e.target.val());
     console.log(student_daily_entry);
 }
