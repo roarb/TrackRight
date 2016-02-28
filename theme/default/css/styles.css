@@ -1,0 +1,11 @@
+
+.col2 {display:block; width:100%;}
+.col-left {float:left; width:50%;}
+.col-right {float:right; width:50%;}
+
+.a-left {text-align:left;}
+.a-center {text-align:center;}
+.a-right {text-align:right;}
+
+#eval-chart {width:100%; border:1px solid #333; padding:10px;}
+tbody td {border-top:1px solid #777; padding:5px;}
